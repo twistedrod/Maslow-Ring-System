@@ -23,6 +23,7 @@ Then place the two brick holders in the lower corners of the sled and drill thro
 Attach your router to the sled. This step will vary depending on the router you are using so it's a little bit up to you, but the gist will be the same on most routers.
 
 You will probably need to remove the handles from your router to make it fit within the ring. On the Ridgid router, the handles are held on using two bolts hidden under the caps on the handles. Removing the caps over the bolts can be quite difficult, I ended up drilling a hole in one to get access to the bolt.
+A trick for removing the Caps over the bolts on the rigid router is place a wood screw in the center of the plug and screw it in and it will pull the plug out of the handle so you can unbolt them.
 
 Remove the router base plate, and attach the router to the sled using the same bolt holes that the base plate used to attach. The bolts which held the base plate may not be long enough to pass through the plywood.
 
